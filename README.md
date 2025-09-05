@@ -62,7 +62,7 @@ LiteECG-Net-git/
 
 ### 1. Data Preparation
 
-Download the MIT-BIH Arrhythmia Database and place the files in `data/mitbih/` directory. The required files are:
+Download the MIT-BIH Arrhythmia Database （https://physionet.org/static/published-projects/mitdb/mit-bih-arrhythmia-database-1.0.0.zip） and place the files in `data/mitbih/` directory. The required files are:
 - `*.dat` - ECG signal data
 - `*.atr` - Annotation files  
 - `*.hea` - Header files
