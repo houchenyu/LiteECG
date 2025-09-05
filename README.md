@@ -1,6 +1,6 @@
-# ECG Lightweight Anomaly Detector
+# Lightweight ECG classification
 
-A comprehensive deep learning framework for ECG anomaly detection using multiple state-of-the-art neural network architectures. This project implements various models for classifying ECG signals into different arrhythmia types based on the MIT-BIH Arrhythmia Database.
+This is the repository of the paper "LiteECG: A lightweight convolutional neural network for ECG Classification ". This project implements various models for classifying ECG signals into different arrhythmia types based on the MIT-BIH Arrhythmia Database.
 
 ## 🚀 Features
 
